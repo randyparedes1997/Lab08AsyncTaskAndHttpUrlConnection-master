@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lab08_CompletableHttp</string>
+    <string name="instructions">Put book/magazine title</string>
+    <string name="inputHint">Book/Magazine title</string>
+    <string name="btn_text">Search</string>
+    <string name="autor">Author(s): </string>
+    <string name="idioma">Language: </string>
+    <string name="publicacion">Published date: </string>
+    <string name="espere">Wait a moment...</string>
+    <string name="atencion">Atention</string>
+    <string name="busqueda">Put search values</string>
+    <string name="aceptar">Accept</string>
+    <string-array name="types">
+        <item>Book</item>
+        <item>Magazine</item>
+        <item>All</item>
+    </string-array>
+</resources>
